@@ -1,4 +1,4 @@
-# send-mail-PHPMailer
+# Send-mail-PHPMailer
 
 It is a simple code for sending emails. I have used the PHPMailer library and used the Gmail SMTP host. like as 
 
